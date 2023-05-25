@@ -13,20 +13,20 @@ export default function Navbar() {
       <div className='N1'>
         <ul className='navbarli'>
         <div className='list1'>
-            <li>
-              <Link to="/">Home</Link>
+            <li >
+              <Link to="/" className='l11'>Home</Link>
             </li>
             </div>  
 
             <div className='list2'>
             <li>
-              <Link to="/Process">Process</Link>
+              <Link to="/Process" className='l12'>Process</Link>
             </li>
             </div>
 
             <div className='list3'>
-            <li>
-              <Link to="/Results">Results</Link>
+              <li>
+              <Link to="/Results" className='l13'>Results</Link>
             </li>
             </div>
         </ul>

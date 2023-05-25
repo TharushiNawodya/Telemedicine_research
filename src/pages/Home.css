@@ -1,5 +1,5 @@
 .ho1{
-    background-color: rgb(36, 175, 190); 
+    background-color: rgb(185, 233, 239); 
     height:2000px;
 }
 .ho2{
@@ -42,7 +42,7 @@ h1{
     font-family: Arial;
     text-align: center;
     
-    color: rgb(17, 25, 65);
+    color: rgb(13, 112, 130);
 }
 .im1
 {
@@ -101,7 +101,7 @@ h3{
     font-size: 60px;
     font-family: 'Lucida Sans';
     font-weight: bold;
-    color:rgb(20, 61, 61);
+    color:rgb(44, 97, 97);
 
   }
   .bottom-q{
@@ -118,5 +118,14 @@ h3{
     
     
   }
-  
+  .t-right{
+    position: absolute;
+    bottom: 660px;
+    
+    font-size: 18px;
+    font-family: 'Lucida Sans';
+    font-weight: bold;
+    color:rgb(20, 61, 61);
+    color: black;
+  }
   

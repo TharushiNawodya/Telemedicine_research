@@ -6,19 +6,20 @@ import { Link } from 'react-router-dom'
 import Navbar from './Navbar'
 import wall from '../images/wall.jpg'
 import Questions from './Questions'
-import Datasheet from './Datasheet'
+// import Datasheet from './Datasheet'
 
 
 export default function Home() {
   return (
-    <div>
-     {/* <div className='naviga'><Navbar/> 
+    
+   
     <div className="ho1">
 
 
       
       
       <img src={wall} alt='' className="im1"/>
+      <div className='t-right'><Navbar/></div>
       <div className='bottom'>
       <div className='bottom-left'>
       <p>Telemedicine Systems <br/>in Sri Lanka</p>
@@ -110,11 +111,8 @@ export default function Home() {
       
     </div>
 
-    {/* <Questions/> */}
     
-    {/* </div> */} 
-    <Datasheet/>
-    </div>
     
+   
   )
 }

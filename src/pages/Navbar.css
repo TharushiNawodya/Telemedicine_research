@@ -1,15 +1,29 @@
 .navbarli{
-    list-style-type: none;
+    list-style-type: none!important;
     display: flex;
-    background-color: rgb(81, 162, 162);
+    
+    
 }
 .list1{
     text-decoration: none;
-    padding-left: 900px;
+    padding-left: 1050px;
+    
 }
 .list2{
     padding-left: 100px;
 }
 .list3{
     padding-left: 100px;
+}
+.l11{
+    text-decoration: none!important;
+    color: black;
+}
+.l12{
+    text-decoration: none!important;
+    color: black;
+}
+.l13{
+    text-decoration: none!important;
+    color: black;
 }

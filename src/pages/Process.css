@@ -1,6 +1,6 @@
 .pr1{
     margin-top:0%;
-    background-color: rgb(81, 162, 162); 
+    background-color: rgb(185, 233, 239); 
     height: 2000px;
 }
 h1{
@@ -8,7 +8,7 @@ h1{
     font-family: Arial;
     text-align: center;
     font-size: 40px;
-    color: rgb(17, 25, 65);
+    color: rgb(33, 36, 186);
 }
 .p1{
     font-family: verdana;
@@ -16,6 +16,7 @@ h1{
     margin-left: 8%;
     margin-right: 8%;
     text-align: justify;
+    padding-top: 20px;
 }
 h2{
     font-family: arial;
@@ -102,4 +103,62 @@ h4{
     margin-left: 50px;
     margin-right: 50px;
     border-radius: 10%;
+}
+.topic{
+    padding-top: 50px;
+}
+.pr3{
+    padding-top: 30px;
+    color: rgb(19, 3, 84);
+}
+.ch1{
+    color:gold;
+    font-size: 25px;
+    padding-left: 50px;
+    padding-top:20px;
+    padding-bottom: 15px;
+}
+.s1{
+    background-color: rgb(15, 15, 77);
+    border-radius: 15px;
+
+    
+}
+.st1{
+    color:white;
+    text-align: justify;
+    padding-left: 40px;
+    padding-right:40px;
+    
+    
+    
+}
+.vl1{
+    padding-left:450px;
+    margin-bottom: 20px;
+    color: white;
+
+}
+.s2{
+    background-color: rgb(15, 15, 77);
+    border-radius: 15px;
+}
+.para1{
+    padding-top: 50px;
+}
+.para2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.para3{
+    padding-bottom: 100px;
+}
+.ll1{
+    padding-bottom: 30px;
+}
+.ll2{
+    padding-bottom: 30px;
+}
+.ll3{
+    padding-bottom: 30px;
 }
