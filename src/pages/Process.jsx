@@ -4,6 +4,9 @@ import mobitel from '../images/mobi.jpeg'
 import dialog from '../images/dia.jpeg'
 import nawaloka from '../images/nawa.jpeg'
 import durdance from '../images/durda.jpeg'
+import { Link } from 'react-router-dom'
+import Questions from './Questions'
+
 export default function Process() {
   return (
     <div className='pr1'>
@@ -29,6 +32,7 @@ export default function Process() {
             <div className='pr5'>
               <p>
                 Development of reliable interview Questions
+                <Link to="/Questions">View more</Link>
               </p>  
             </div>   
         </div>

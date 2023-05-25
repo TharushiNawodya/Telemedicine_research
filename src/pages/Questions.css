@@ -1,0 +1,14 @@
+.c1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.c2,.c3,.c4,.c5,.c6,.c7{
+    padding-bottom: 50px;
+}
+.ques_cards{
+    background-color: rgb(120, 210, 226); ;
+}
+.my-custom-alert {
+    background-color: #2aa2af !important;
+    color: #f7efef;
+}

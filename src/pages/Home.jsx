@@ -6,12 +6,14 @@ import { Link } from 'react-router-dom'
 import Navbar from './Navbar'
 import wall from '../images/wall.jpg'
 import Questions from './Questions'
+import Datasheet from './Datasheet'
+
 
 export default function Home() {
   return (
     <div>
-     {/* <div className='naviga'><Navbar/> */}
-    {/* <div className="ho1">
+     {/* <div className='naviga'><Navbar/> 
+    <div className="ho1">
 
 
       
@@ -106,11 +108,12 @@ export default function Home() {
           </div>
         </div>
       
-    </div> */}
+    </div>
 
-    <Questions/>
+    {/* <Questions/> */}
     
-    {/* </div> */}
+    {/* </div> */} 
+    <Datasheet/>
     </div>
     
   )
