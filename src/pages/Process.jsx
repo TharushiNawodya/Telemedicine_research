@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom'
 import Questions from './Questions'
 import { Container, Row, Col, Card } from 'react-bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import { Datasheet } from './Datasheet'
+import Datasheet from './Datasheet'
 
 export default function Process() {
   return (
@@ -59,7 +59,7 @@ export default function Process() {
               level of agreement or disagreement with specific statements or questions related to telemedicine.
                By utilizing this simple and effective format, we aim to gather valuable insights and feedback from users, enabling us 
             to better understand their perspectives and experiences in the context of telemedicine.</p>
-            <div className='ll2'> <Link to="/Questions" className='vl1'>View more</Link></div>
+            <div className='ll2'> <Link to="/Datasheet" className='vl1'>View more</Link></div>
           </div>
         </div>
       </div>
@@ -73,7 +73,7 @@ export default function Process() {
             <p class="card-text" className='st1'>Data from a questionnaire completed by telemedicine users,
              who have used the system at least once, was analyzed using SPSS software. 
             SPSS is a powerful tool for statistical analysis. </p>
-            <div className='ll3'> <Link to="/Questions" className='vl1'>View more</Link></div>
+            <div className='ll3'> <Link to="/Results" className='vl1'>View more</Link></div>
           </div>
         </div>
       </div>
@@ -120,7 +120,7 @@ export default function Process() {
               </p>  
             </div>   
         </div> */}
-<Datasheet/>
+
         </div>
         <div className='exam1'>
         <div className='add1'>

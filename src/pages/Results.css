@@ -1,0 +1,16 @@
+.res1{
+background-color: rgb(185, 233, 239); 
+    height:2000px;
+}
+.resp{
+    text-align:justify;
+    /* width: 1200px; */
+    justify-content: center;
+    padding-left: 15%;
+    padding-right: 15%;
+
+}
+.ir1{
+    width:1200px;
+    padding-left: 280px;
+}

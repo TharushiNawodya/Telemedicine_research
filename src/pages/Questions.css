@@ -6,9 +6,50 @@
     padding-bottom: 50px;
 }
 .ques_cards{
-    background-color: rgb(120, 210, 226); ;
+    background-color:  rgb(185, 233, 239) ;
 }
 .my-custom-alert {
-    background-color: #2aa2af !important;
+    /* background-color: #adb3b3 !important; */
     color: #f7efef;
+}
+h2{
+    color:  rgb(19, 3, 84);
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.ct1{
+    color:darkgoldenrod;
+    text-align: center;
+    font-size: 25px!important;
+}
+.ct2{
+    color:darkgoldenrod;
+    text-align: center;
+    font-size: 25px!important;
+}
+.ct3{
+    color:darkgoldenrod;
+    text-align: center;
+    font-size: 25px!important;
+}
+.ct4{
+    color:darkgoldenrod;
+    text-align: center;
+    font-size: 25px!important;
+}
+.ct5{
+    color:darkgoldenrod;
+    text-align: center;
+    font-size: 25px!important;
+}
+.ct6{
+    color:darkgoldenrod;
+    text-align: center;
+    font-size: 25px!important;
+}
+.ct7{
+    color:darkgoldenrod;
+    text-align: center;
+    font-size: 25px!important;
 }

@@ -21,6 +21,7 @@ h1{
 h2{
     font-family: arial;
     margin-left: 8%;
+    padding-top: 30px;
 }
 h4{
     font-family: arial;
@@ -108,7 +109,7 @@ h4{
     padding-top: 50px;
 }
 .pr3{
-    padding-top: 30px;
+    padding-top: 10px !important;
     color: rgb(19, 3, 84);
 }
 .ch1{
@@ -144,7 +145,7 @@ h4{
     border-radius: 15px;
 }
 .para1{
-    padding-top: 50px;
+    padding-top: 30px;
 }
 .para2{
     padding-top: 50px;
@@ -161,4 +162,7 @@ h4{
 }
 .ll3{
     padding-bottom: 30px;
+}
+.p1{
+    padding-top: 50px;
 }

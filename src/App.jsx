@@ -10,6 +10,7 @@ import {Routes,BrowserRouter,Route} from 'react-router-dom';
 import { Link } from 'react-router-dom'
 import Navbar from './pages/Navbar'
 import Questions from './pages/Questions'
+import Datasheet from './pages/Datasheet'
 
 
 
@@ -36,6 +37,7 @@ function App() {
               <Route path="/Results" element={<Results/>}/>
               
               <Route path="/Questions" element={<Questions/>}/>
+              <Route path="/Datasheet" element={<Datasheet/>}/>
               
         </Routes>
         </BrowserRouter>

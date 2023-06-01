@@ -1,11 +1,12 @@
 import React from "react";
 import data from "./csvjson.json";
+import './Datasheet.css'
 
 export default function Datasheet() {
   return (
     <div>
       {data.length ? (
-        <table className="dtab">
+        <table>
           <thead>
             <tr>
               <th>user</th>

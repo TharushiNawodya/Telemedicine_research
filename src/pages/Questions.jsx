@@ -15,8 +15,8 @@ export default function Questions() {
     <Card style={{width:'60rem'}}>
       
       <Card.Body>
-        <Card.Title>Privacy</Card.Title>
-        <Card.Text>
+        <Card.Title className='ct1'>Privacy</Card.Title>
+        <Card.Text className='cte1'>
         Privacy in terms of healthcare means that what you tell your healthcare provider, what they write down about you, 
         any medication you take and all other personal information is kept private. You have a legal right to this privacy, 
         and there are laws that guide health service providers in how they collect and record information about your health, 
@@ -37,8 +37,8 @@ export default function Questions() {
     <Card style={{width:'60rem'}}>
       
       <Card.Body>
-        <Card.Title>Storage</Card.Title>
-        <Card.Text>
+        <Card.Title className='ct2'>Storage</Card.Title>
+        <Card.Text className='cte2'>
           You own your health information and decide who can access it. You always have the right to access it 
           yourself by asking for a copy. You can keep a personal health record at home or via the free eHealth system, 
           which is a secure online summary of your health information, run by the Commonwealth Government.
@@ -66,8 +66,8 @@ export default function Questions() {
     <Card style={{width:'60rem'}}>
       
       <Card.Body>
-        <Card.Title>Consent</Card.Title>
-        <Card.Text>
+        <Card.Title className='ct3'>Consent</Card.Title>
+        <Card.Text className='cte3'>
 
           When you go to hospital, you can choose to give the staff access to your health records. You do not have to, 
           but giving them your consent to access your information will help them provide the best care possible for you. 
@@ -90,7 +90,7 @@ export default function Questions() {
     <Card style={{width:'60rem'}}>
       
       <Card.Body>
-        <Card.Title>Encryption</Card.Title>
+        <Card.Title className='ct4'>Encryption</Card.Title>
         <Card.Text>
           The main purpose using encryption is to provide data security for sensitive information.
           Encryption methods convert our data into a format which can be readable only for authorized parties.
@@ -117,7 +117,7 @@ export default function Questions() {
     <Card style={{width:'60rem'}}>
       
       <Card.Body>
-        <Card.Title>Authentication/ Access Control</Card.Title>
+        <Card.Title className='ct5'>Authentication/ Access Control</Card.Title>
         <Card.Text>
 
           Authentication simply means verifying a someone or something is who they say they are. In 
@@ -138,7 +138,7 @@ export default function Questions() {
     <Card style={{width:'60rem'}}>
       
       <Card.Body>
-        <Card.Title>Authorization</Card.Title>
+        <Card.Title className='ct6'>Authorization</Card.Title>
         <Card.Text>
 
       Authorization focuses on determining a user or service's level of access. In technology, we
@@ -160,7 +160,7 @@ export default function Questions() {
     <Card style={{width:'60rem'}}>
       
       <Card.Body>
-        <Card.Title>Secure Network</Card.Title>
+        <Card.Title className='ct7'>Secure Network</Card.Title>
         <Card.Text>
           No matter how strong your Telemedicine system is built, still there could be gateways where 
           intruders can get in. Lack of proper web security measurements always welcome outside 
